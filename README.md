@@ -2,7 +2,7 @@
 
 <!-- <div align= "center"><img src="https://i.imgur.com/MfKjyLG.png"/> -->
   
-<p>Cuisine Classification built with OpenCV, Keras/TensorFlow using Deep Learning and Flask in order to classify the food items in static images.</p>
+<p>Cuisine Classification built with Flask, Keras/TensorFlow using Deep Learning and Inceptionv3 in order to classify the food items in static images.</p>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
