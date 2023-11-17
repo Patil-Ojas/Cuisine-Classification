@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Classification</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
+</head>
+<body>
+    <nav>
+        <a href="/">Home</a>
+        <div>
+            <a href="https://github.com/Patil-Ojas" target="_blank">More</a>
+            <a href="https://www.linkedin.com/in/ojaspatil-" target="_blank">Contact</a>
+        </div>
+    </nav>
+    <div class="container">
+        <h1>Food Classification</h1>
+        <form method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".jpg, .jpeg, .png" required>
+            <button type="submit">Classify</button>
+        </form>
+        {% if result %}
+            <div class="result">
+                <p>{{ result }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
