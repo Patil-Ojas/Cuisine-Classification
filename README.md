@@ -1,3 +1,5 @@
+<!-- Credits to https://github.com/techyhoney/Facemask_Detection/tree/master for the Readme.md template! -->
+
 <h1 align="center">Cuisine Classification</h1>
 
 <!-- <div align= "center"><img src="https://i.imgur.com/MfKjyLG.png"/> -->
@@ -13,8 +15,8 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/techyhoney/Facemask_Detection/issues)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/techyhoney/Facemask_Detection/blob/master/LICENSE)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Patil-Ojas/Cuisine-Classification/issues)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Patil-Ojas/Cuisine-Classification/blob/main/LICENSE)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -67,9 +69,6 @@ $ source test/bin/activate
 $ pip3 install -r requirements.txt
 ```
 
-## :trophy: Results
-
-#### Our model gave around 88% accuracy for Face Mask Detection after training.
 <!-- ####          
 ![](https://i.imgur.com/3vo1w8f.png)
 
@@ -83,15 +82,19 @@ $ pip3 install -r requirements.txt
 
 ## Flask app
 
-Face Mask Detector webapp using Tensorflow & Streamlit command
+Run the app.py using the below command to launch Cuisine Classification
 ```
 $ python app.py 
 ```
 
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Facemask_Detection](https://github.com/Patil-Ojas/Cuisine-Classification/issues) repository. If you already found a solution to your problem, **We would love to review your pull request**! 
+## :trophy: Results
 
-<!-- Also credits to https://github.com/techyhoney/Facemask_Detection/tree/master for the Readme.md template! -->
+#### Our model gave around 88% accuracy for Face Mask Detection after training.
+
+
+## :handshake: Contribution
+Feel free to **file a new issue** with a respective title and description on the the [Facemask_Detection](https://github.com/Patil-Ojas/Cuisine-Classification/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**! 
+
 
 ## :eyes: License
-[MIT](https://github.com/techyhoney/Facemask_Detection/blob/master/LICENSE)
+[MIT](https://github.com/Patil-Ojas/Cuisine-Classification/blob/main/LICENSE)
